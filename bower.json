@@ -1,6 +1,5 @@
 {
     "name": "incuna-forms",
-    "version": "0.0.0",
     "license": "MIT",
     "author": "Incuna",
     "description": "Standardised django and angular form templates",
