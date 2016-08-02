@@ -1,0 +1,14 @@
+{
+    "name": "incuna-forms",
+    "license": "MIT",
+    "author": "Incuna",
+    "description": "Standardised django and angular form templates",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/incuna/incuna-forms"
+    },
+    "dependencies": {
+        "angular": "^1.5.8",
+        "angular-input-fields": "^8.1.4"
+    }
+}
